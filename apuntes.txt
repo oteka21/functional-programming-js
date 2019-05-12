@@ -1,0 +1,5 @@
+inmutable data
+
+https://gomakethings.com/how-to-handle-immutability-in-javascript/
+https://itnext.io/immutable-vs-immutable-js-d524bf515bcd
+https://redux.js.org/faq/immutable-data
